@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @harsh-2596
 - 👀 I’m interested in being a coding wizard
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on python projets
+- 🌱 I’m currently learning web development
 - 📫 email me: upadhyay.harsh2596@gmail.com
 -     or call on : 7817851011
 
